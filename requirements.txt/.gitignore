@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+job_history.db
+instance/
+.vscode/
